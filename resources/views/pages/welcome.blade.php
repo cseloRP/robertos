@@ -122,7 +122,7 @@
                     From Ruthin to Manchester airport - from £59<br />
                     From Ruthin to Manchester - from £68<br />
                     From Ruthin to Birmingham airport - from £140<br />
-                    From Ruthin to Luthon airport - from £190<br />
+                    From Ruthin to Luton airport - from £190<br />
                     From Ruthin to Heathrow  - from £230<br />
                     From Ruthin to Gatwick - from £250<br />
                 </div>

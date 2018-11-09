@@ -3,8 +3,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Roberto's Taxi Service in Ruthin and Denbigshire UK @yield('title')</title>
 
-<meta name="description" content="Taxi services...">
-<meta name="keywords" content="taxi journey transport...">
+<meta name="description" content="Roberto's Taxi Ruthin transport services. Airport runs, School run, Chauffeur service, Long distance journey, Local journey, Any shopping tour, Take away delivery, Day trips, Night out transfers.">
+<meta name="keywords" content="taxi, cab, journey, transport, airport run, Ruthin, Denbighshire">
 <meta name="robots" content="index, follow">
 <meta name="author" content="Roberto's Taxi Ruthin">
 <meta name="language" content="EN">
@@ -18,15 +18,16 @@
 <meta property="og:type" content="website" />
 <meta property="og:locale" content="uk_UK" />
 <meta property="og:title" content="Roberto's Taxi Ruthin - call: 07912564493" />
-<meta property="og:description" content="" />
+<meta property="og:description" content="Roberto's Taxi Ruthin transport services. Airport runs, School run, Chauffeur service, Long distance journey, Local journey, Any shopping tour, Take away delivery, Day trips, Night out transfers." />
 <meta property="og:url" content="http://robertostaxi.com" />
 <meta property="og:site_name" content="Roberto's Taxi Ruthin" />
+<meta property="og:image" content="http://robertostaxi.com/images/taxi_ruthin.jpg" />
 <meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:description" content=""/>
+<meta name="twitter:description" content="Roberto's Taxi Ruthin transport services. Airport runs, School run, Chauffeur service, Long distance journey, Local journey, Any shopping tour, Take away delivery, Day trips, Night out transfers"/>
 <meta name="twitter:title" content="Roberto's Taxi Ruthin - call: 07912564493"/>
 <meta name="twitter:site" content="@RobertosTaxi"/>
-<meta name="twitter:image" content=""/>
-<meta itemprop="description" content=""/>
+<meta name="twitter:image" content="http://robertostaxi.com/images/taxi_ruthin.jpg"/>
+<meta itemprop="description" content="Roberto's Taxi Ruthin transport services. Airport runs, School run, Chauffeur service, Long distance journey, Local journey, Any shopping tour, Take away delivery, Day trips, Night out transfers"/>
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/css/select2.min.css" />
 
@@ -36,6 +37,9 @@
 {{--{{ app('html')->style('css/font-awesome.min.css') }}--}}
 {{ app('html')->style('css/style.css') }}
 {{--{{ app('html')->style('css/jquery.mobile-1.4.5.min.css') }}--}}
+
+
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
 
 @yield('stylesheets')
 
