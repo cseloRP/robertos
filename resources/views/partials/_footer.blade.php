@@ -6,6 +6,9 @@
 				<p style="text-align: justify;">
 					If you are looking for a reliable and quality taxi company then Roberto’s Taxi Ruthin is here for you. We operate a local taxi company for more than 10 years to all of our customers old and new. We have different sizes of vehicles , mini buses and executive cars.
 				</p>
+				<p>
+					<a target="_blank" href="/privacyPolicy">>>Our Privacy Policy<<</a>
+				</p>
 			</div>
 			<div class="col-md-4 col-lg-3 offset-md-2 offset-lg-1 high-bottom">
 				<h4>Our Services</h4>

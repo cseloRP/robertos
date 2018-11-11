@@ -27,6 +27,7 @@
 
 Route::get('/', 'pagesController@getIndex');
 Route::get('about', 'pagesController@getAbout');
+Route::get('privacyPolicy', 'pagesController@getPrivacy');
 //Route::get('contact', 'pagesController@getContact');
 //Route::post('contact', 'pagesController@postContact');
 //

@@ -30,7 +30,14 @@
 <meta itemprop="description" content="Roberto's Taxi Ruthin transport services. Airport runs, School run, Chauffeur service, Long distance journey, Local journey, Any shopping tour, Take away delivery, Day trips, Night out transfers"/>
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/css/select2.min.css" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129066862-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
+    gtag('config', 'UA-129066862-1');
+</script>
 <script src='https://www.google.com/recaptcha/api.js'></script>
 {{ app('html')->style('css/bootstrap.min.css') }}
 <link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">

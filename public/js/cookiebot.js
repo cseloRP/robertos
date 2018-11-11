@@ -9,5 +9,8 @@ window.addEventListener("load", function(){
                 "background": "#f1d600"
             }
         },
+        "content": {
+            "href": "/privacyPolicy"
+        },
         "theme": "edgeless",
 })});

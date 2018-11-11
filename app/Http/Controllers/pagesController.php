@@ -28,4 +28,8 @@ class pagesController extends Controller{
     public function getAbout(){
         return view('pages.about');
     }
+
+    public function getPrivacy(){
+        return view('pages.privacyPolicy');
+    }
 }
